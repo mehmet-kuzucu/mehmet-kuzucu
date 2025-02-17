@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mehmet Kuzucu</h1>
-<h3 align="center">I am a third-year Kadir Has University student with a passion for machine learning, computer vision and language models</h3>
+<h3 align="center">I am a forth-year Kadir Has University student with a passion for machine learning, computer vision and language models</h3>
 
 ![](https://komarev.com/ghpvc/?username=mehmet-kuzucu&base=150)
 
